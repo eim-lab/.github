@@ -1,6 +1,5 @@
 #### Laboratoare EIM:
   
-  * [Laborator 01](https://github.com/eim-lab/Laborator01)
   * [Laborator 01](https://github.com/eim-lab/Laborator02)
   * [Laborator 02](https://github.com/eim-lab/Laborator03)
   * [Laborator 03](https://github.com/eim-lab/Laborator04)
