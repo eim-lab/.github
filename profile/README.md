@@ -10,7 +10,8 @@
   * [Laborator 07](https://github.com/eim-lab/Laborator07)
   * [Laborator 08](https://github.com/eim-lab/Laborator08)
   * [Laborator 09](https://github.com/eim-lab/Laborator09)
-  * [Laborator 10](https://github.com/eim-lab/Laborator10)
+  * [Laborator 10](https://github.com/dragos-niculescu/PjsipGo)
+  * [Laborator 11](https://github.com/eim-lab/Laborator11)
   * [Colocviu 2](https://github.com/eim-lab/PracticalTest02)
   
   
